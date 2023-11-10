@@ -40,4 +40,4 @@ $ nauczycielem
 Projekt jest to serwer minecraft z pełni rozbudowaną listą pluginów, możliwość dołączenia po przez IP: Krainminecraft.voxel.pl, plugini są odpowiednio skonfigurowane aby wszystko współgrało i wszystkie opcje były dostępne zgodnie z uprawnieniami gracza.
 
 ## Baza Danych
-Baza danych opiera się na podstawowych informajach na temat serwera oraz graczy.
+Baza danych opiera się na podstawowych informacjach na temat serwera oraz graczy.
