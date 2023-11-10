@@ -1,7 +1,7 @@
 * Pluginy na serwer nie są mojego autorstwa są na licencji Freeware
 # Spis treści
 * Informacje ogólne](#general-info)
-* [Kox](#kox)
+* [BazaDanych](#bazadanych)
 * [Konfiguracja](#setup)
 * [Sterowanie](#sterowanie)
 * [Opis Projektu](#opis-projektu)
@@ -39,5 +39,5 @@ $ nauczycielem
 # Opis Projektu
 Projekt jest to serwer minecraft z pełni rozbudowaną listą pluginów, możliwość dołączenia po przez IP: Krainminecraft.voxel.pl, plugini są odpowiednio skonfigurowane aby wszystko współgrało i wszystkie opcje były dostępne zgodnie z uprawnieniami gracza.
 
-## Kox
-sdfdsfsfsdfds
+## Baza Danych
+Baza danych opiera się na podstawowych informajach na temat serwera oraz graczy.
